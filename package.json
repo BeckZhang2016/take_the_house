@@ -1,0 +1,23 @@
+{
+  "name": "take_the_house",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BeckZhang2016/take_the_house.git"
+  },
+  "author": "beck",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BeckZhang2016/take_the_house/issues"
+  },
+  "homepage": "https://github.com/BeckZhang2016/take_the_house#readme",
+  "dependencies": {
+    "moment": "^2.18.1",
+    "mongoose": "^4.10.4"
+  }
+}
