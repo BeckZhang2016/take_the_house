@@ -17,11 +17,9 @@
   },
   "homepage": "https://github.com/BeckZhang2016/take_the_house#readme",
   "dependencies": {
+    "express": "^4.15.3",
     "moment": "^2.18.1",
     "mongoose": "^4.10.4"
   },
-  "devDependencies": {
-    "babel-core": "^6.24.1",
-    "babel-register": "^6.24.1"
-  }
+  "devDependencies": {}
 }
